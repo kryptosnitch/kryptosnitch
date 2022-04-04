@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kryptosnitch
-- 👀 I’m interested in web3 buidling (decentralized storage, smart agreeements, indexing)
+- 👀 I’m interested in web3 buidling (decentralized storage, smart agreements, indexing)
 - 🌱 I’m currently learning rust and solidity
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me - mail to krytpodev@outlook.com
